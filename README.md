@@ -2,7 +2,6 @@
 ##
     cd into project
     gatsby develop
-    ```
 
 ## 🧐 What's inside?
 
