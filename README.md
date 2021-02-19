@@ -1,5 +1,6 @@
 
 ##
+    git clone git@github.com:christianmbonet/test-pamphlet.git
     cd into project
     gatsby develop
 
